@@ -50,4 +50,4 @@ python -m streamlit run app.py
 4. **Analyze Results**: View the risk rationale, interact with the Plotly chart, and download the full forecast trace using the Export Center.
 
 ## 🔗 Repository
-[Spatiotemporal-Transformer](https://github.com/priyaahh/Spatiotemporal-Transformer)
+[Heat-Risk-Prediction-System](https://github.com/priyaahh/Spatiotemporal-Transformer)
