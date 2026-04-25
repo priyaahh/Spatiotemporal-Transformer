@@ -1,6 +1,6 @@
 # 🌦️ Weather Forecast and Heat Risk Prediction Tool
 
-A comprehensive, modular Streamlit application for forecasting future temperatures and evaluating associated heat risks. This project implements autoregressive time-series forecasting using Deep Learning models (LSTM and a lightweight Transformer), tailored for CPU efficiency and practical usability.
+A modular Streamlit-based application for time-series temperature forecasting and heat risk prediction, leveraging Deep Learning models (LSTM and Transformer) with an autoregressive pipeline, designed for efficient, real-world usage with data visualization and user-driven input.
 
 ## ✨ Features
 - **Multiple Model Architectures**: Choose between LSTM and CPU-optimized Transformer models for forecasting.
